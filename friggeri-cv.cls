@@ -114,7 +114,6 @@
     \LARGE\headingfont\color{headercolor}%
     \@sectioncolor #1%
   }
-  \par\vspace{\parskip}
 }
 
 \renewcommand{\subsection}[2]{
@@ -132,9 +131,12 @@
 
 \setlength{\tabcolsep}{0pt}
 \newenvironment{entrylist}{%
+  \par\vspace{\parskip}
   \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}ll}
 }{%
   \end{tabular*}
+  \par\vspace{\parskip}
+  \par\vspace{\parskip}
 }
 \renewcommand{\bfseries}{\headingfont\color{headercolor}}
 \newcommand{\entry}[4]{%
