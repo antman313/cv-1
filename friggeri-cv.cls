@@ -49,9 +49,13 @@
 \RequirePackage[quiet]{fontspec}
 \RequirePackage[math-style=TeX,vargreek-shape=unicode]{unicode-math}
 
-\newfontfamily\bodyfont[]{Helvetica Neue}
-\newfontfamily\thinfont[]{Helvetica Neue UltraLight}
-\newfontfamily\headingfont[]{Helvetica Neue Condensed Bold}
+\newfontfamily{\bodyfont}{Iwona Medium}
+\newfontfamily{\thinfont}{Iwona Light}
+\newfontfamily{\headingfont}{Iwona Heavy}
+
+%\newfontfamily{\bodyfont}{Helvetica Neue}
+%\newfontfamily{\thinfont}{Helvetica Neue UltraLight}
+%\newfontfamily{\headingfont}{Helvetica Neue Condensed Bold}
 
 \defaultfontfeatures{Mapping=tex-text}
 \setmainfont[Mapping=tex-text, Color=textcolor]{Helvetica Neue Light}
