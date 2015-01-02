@@ -289,3 +289,10 @@
 \RequirePackage{hyperref}
 \RequirePackage{fontawesome}
 
+\newcommand{\icon}[2]{
+  \ifthenelse{\equal{#1}{email}}    {\href{mailto:#2}{#2} \color{gray}~\faEnvelope}       {}
+  \ifthenelse{\equal{#1}{homepage}} {\href{https://#2}{#2}~\color{gray}~\faGlobe}         {}
+  \ifthenelse{\equal{#1}{twitter}}  {\href{https://twitter.com/#2}{@#2}~\color{gray}~\faTwitter} {}
+  \ifthenelse{\equal{#1}{github}}   {\href{https://github.com/#2}{#2}~\color{gray}~\faGithub} {}
+}
+
