@@ -54,14 +54,10 @@
 \newfontfamily{\headingfont}{Iwona Heavy}
 \newfontfamily{\subheadingfont}{Nanum Brush Script}
 
-%\newfontfamily{\bodyfont}{Helvetica Neue}
-%\newfontfamily{\thinfont}{Helvetica Neue UltraLight}
-%\newfontfamily{\headingfont}{Helvetica Neue Condensed Bold}
-
 \defaultfontfeatures{Mapping=tex-text}
 \setmainfont[Mapping=tex-text, Color=textcolor]{Helvetica Neue Light}
 
-\setmathfont{XITS Math}
+%\setmathfont{XITS Math}
 
 %%%%%%%%%%
 % Header %
@@ -290,3 +286,5 @@
 
 \RequirePackage[left=6.1cm,top=2cm,right=1.5cm,bottom=2.5cm,nohead,nofoot]{geometry}
 \RequirePackage{hyperref}
+\RequirePackage{fontawesome}
+
