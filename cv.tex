@@ -1,6 +1,5 @@
 %!TEX TS-program = xelatex
 \documentclass[]{friggeri-cv}
-%\addbibresource{bibliography.bib}
 
 \begin{document}
 \header{norman}{köhring}
@@ -11,11 +10,12 @@
 \begin{aside}
   \section{about}
     Berlin, Germany
-    ~
-    \icon{email}{n@koehr.in}
-    \icon{homepage}{koehr.in}
-    \icon{twitter}{koehr\_in}
-    \icon{github}{nkoehring}
+    \begin{tabular}{r@{~}r}
+      \href{mailto:n@koehr.in}{n@koehr.in} & \color{gray}\faEnvelope
+      \href{https://koehr.in}{koehr.in} & \color{gray}\faGlobe
+      \href{https://twitter.com/koehr\_in}{@koehr\_in} & \color{gray}\faTwitter
+      \href{https://github.com/nkoehring}{nkoehring} &\color{gray}\faGithub
+    \end{tabular}
   \section{languages}
     fluent german \& english
   \section{programming}
