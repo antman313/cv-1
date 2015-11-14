@@ -17,6 +17,17 @@ http://jmn.pl/en/kurier-i-iwona/ as Iwona-ttf-0_995.zip.
 The bibliography.bib file is just kept for reference but there is no
 publication listing in my CV.
 
+It is very handy to install all needed packages with `tlmgr`, the CTAN package
+manager of the tex-live distribution:
+
+``` sh
+# fonts
+tlmgr install iwona fontawesome lm-math
+
+# needed packages, a lot of them may already be installed
+tlmgr textpos biblatex logreq unicode-math ucharcat filehook
+```
+
 
 # License
 Copyright (C) 2015, Norman Köhring
