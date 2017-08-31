@@ -1,0 +1,297 @@
+{
+  "basics": {
+    "name": "Norman Köhring",
+    "label": "Code Artist",
+    "picture": "https://avatars3.githubusercontent.com/u/246402?v=3&s=100",
+    "email": "n@koehr.in",
+    "phone": "",
+    "website": "https://koehr.in",
+    "summary": "Hi there! I am a freelancing programmer, OpenSource enthusiast and hacker based in Berlin, Germany.  I call myself a code artist because programming can and should be a creative process – and that is what I strive for when programming! Just like a painter loves to paint or a musician loves to sing or play an instrument, I love to think about concepts and patterns, and craft pieces of art with source code. ",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Berlin",
+      "countryCode": "DE",
+      "region": "Berlin"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "koehr_in",
+        "url": "https://twitter.com/koehr_in"
+      },
+      {
+        "network": "github",
+        "username": "nkoehring",
+        "url": "https://github.com/nkoehring/"
+      },
+      {
+        "network": "Weblog",
+        "username": "",
+        "url": "https://log.koehr.in"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "FromAtoB",
+      "position": "Senior Frontend Developer",
+      "website": "https://fromatob.com/",
+      "startDate": "Aug 2016",
+      "endDate": "Aug 2017",
+      "summary": "FromAtoB is a platform that compares different modes of public transportation. Their web application is build with Vue.js and supported by Ruby and Go based APIs.",
+      "highlights": [
+        "Introduced Vuejs as a framework for the new web application.",
+        "Used cutting edge web technologies and a modern tech stack.",
+        "Published multiple open-source packages for Vue.js, see https://www.npmjs.com/~koehr",
+        "Founded the Vuejs meetup Berlin."
+      ]
+    },
+    {
+      "company": "Zalando SE",
+      "position": "Senior Frontend Developer",
+      "website": "https://www.zalando.de/",
+      "startDate": "Feb 2016",
+      "endDate": "May 2016",
+      "summary": "Zalando is an electronic e-commerce company operating in 14 European countries and worldwide with spin-offs and subsidiary companies.",
+      "highlights": [
+        "created web presentations for special campaigns using React, HTML5 and CSS3"
+      ]
+    },
+    {
+      "company": "Camunda",
+      "position": "Senior Frontend Developer",
+      "website": "http://camunda.com/",
+      "startDate": "Sep 2015",
+      "endDate": "Dec 2015",
+      "summary": "Camunda BPM is an open-source platform for Business Process Management",
+      "highlights": [
+        "developing bpmn.io, a BPMN rendering toolkit and interactive modeler using Javascript and SVG"
+      ]
+    },
+    {
+      "company": "Blacklane",
+      "position": "Senior Frontend Developer",
+      "website": "http://blacklane.com/",
+      "startDate": "Jun 2015",
+      "endDate": "Aug 2015",
+      "summary": "Blacklane offers a professional driver service in over 50 countries world-wide.",
+      "highlights": [
+        "developed Blacklanes web-based booking system using AngularJS and NodeJS"
+      ]
+    },
+    {
+      "company": "HERE",
+      "position": "Senior Frontend Engineer",
+      "website": "https://here.com/",
+      "startDate": "Nov 2013",
+      "endDate": "May 2015",
+      "summary": "HERE Maps is a routing and discovery web application",
+      "highlights": [
+        "developed the new HERE.com map web application using AngularJS, NodeJS and Express"
+      ]
+    },
+    {
+      "company": "Coreon",
+      "position": "Senior Frontend Developer",
+      "website": "https://www.coreon.com/",
+      "startDate": "Apr 2013",
+      "endDate": "Sep 2013",
+      "summary": "Coreon is a web based multilingual taxonomy editor",
+      "highlights": [
+        "developed Coreon with Backbone, SVG and RubyOnRails"
+      ]
+    },
+    {
+      "company": "Wimdu",
+      "position": "Senior Frontend Developer",
+      "website": "http://wimdu.com",
+      "startDate": "Dec 2012",
+      "endDate": "Jan 2013",
+      "summary": "Wimdu is an online marketplace and hospitality service, enabling people to lease or rent short-term lodging.",
+      "highlights": [
+        "developed Wimdus super quick live search suggestions using ElasticSearch"
+      ]
+    },
+    {
+      "company": "Deutsche Telekom Innovation Laboratories",
+      "position": "Senior Frontend Engineer",
+      "website": "http://laboratories.telekom.com/",
+      "startDate": "Mar 2012",
+      "endDate": "Oct 2012",
+      "summary": "",
+      "highlights": [
+        "developed an API and an experimental Cloud Management UI using cutting egde web technologies"
+      ]
+    },
+    {
+      "company": "dMAS",
+      "position": "Senior Frontend Developer",
+      "website": "http://www.dmas.at/",
+      "startDate": "Oct 2010",
+      "endDate": "Nov 2012",
+      "summary": "dMAS revolutionised advertisment fairs with visitor management, request/response system and more in one solution",
+      "highlights": [
+        "created the first version prototype of dMAS using Sinatra (Ruby) and MongoDB",
+        "invented the QR code identification cards with shortcode fallback",
+        "managed deployment of system and database"
+      ]
+    },
+    {
+      "company": "Lailos Group",
+      "position": "Frontend Developer",
+      "website": "https://www.wecuddle.de/",
+      "startDate": "May 2010",
+      "endDate": "Jul 2011",
+      "summary": "wecuddle is a web based flirt platform with live stream",
+      "highlights": []
+    },
+    {
+      "company": "Gequma",
+      "position": "Frontend Developer (Student)",
+      "website": "http://www.gequma.de/",
+      "startDate": "Nov 2009",
+      "endDate": "Sep 2010",
+      "summary": "developed a web based spreadsheet processing application",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "CoderDojo",
+      "position": "Mentor",
+      "website": "https://coderdojo.com/",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Global movement of free coding clubs for young people.",
+      "highlights": []
+    },
+    {
+      "organization": "Frauenloop",
+      "position": "Mentor",
+      "website": "http://frauenloop.org/",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Berlin-based non-profit that trains and mentors EU resident and immigrant women who want to enter technology industry careers.",
+      "highlights": []
+    },
+    {
+      "organization": "RailsGirls",
+      "position": "Mentor",
+      "website": "http://railsgirlsberlin.de/",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Organizes free RubyOnRails programming workshops for women* without prior experience in programming.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Leipzig University of Applied Sciences",
+      "area": "Computer Sciences",
+      "studyType": "Bachelor",
+      "startDate": "2009",
+      "endDate": "2011",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Merseburg University of Applied Sciences",
+      "area": "Applied Computer Sciences",
+      "studyType": "Bachelor",
+      "startDate": "2006",
+      "endDate": "2009",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "name": "Vuejs Reactivity From Scratch",
+      "publisher": "",
+      "releaseDate": "2017-08-17",
+      "website": "https://log.koehr.in/2017/08/17/vuejs-reactivity-from-scratch",
+      "summary": "Vuejs is the star newcomer in the Javascript Framework world. One of the more exciting features is its seemingly magic reactivity. Plain data objects in components magically invoke a rerender when a property changes. But we all know there is no fairydust involved, right? So how does it actually work?"
+    },
+    {
+      "name": "The Magic 0xC2",
+      "publisher": "",
+      "releaseDate": "2017-04-09",
+      "website": "https://log.koehr.in/2017/04/09/the-magic-0xc2",
+      "summary": "I built a web application with file upload functionality. Some Vue.js in the front and a CouchDB in the back. Everything should be pretty simple and straigt forward. But…"
+    },
+    {
+      "name": "The Price to Crack Your Password",
+      "publisher": "",
+      "releaseDate": "2016-12-04",
+      "website": "https://log.koehr.in/2016/12/04/the-price-to-crack-your-password",
+      "summary": "Nearly six years ago, I wrote about password complexity and showed how long it takes to crack passwords per length.So, times changed and I thought about a reiteration of that topic, but instead focussing on the amount of money you need to crack the password. "
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML5",
+        "CSS3",
+        "Javascript",
+        "Vue.js",
+        "Node"
+      ]
+    },
+    {
+      "name": "Ruby programming",
+      "level": "Good",
+      "keywords": [
+        "Ruby programming in general",
+        "RubyOnRails",
+        "Sinatra",
+        "Rack"
+      ]
+    },
+    {
+      "name": "other programming",
+      "level": "Fair",
+      "keywords": [
+        "Rust",
+        "C",
+        "Python"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "German",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Archery",
+      "keywords": [
+        "traditional archery",
+        "longbow"
+      ]
+    },
+    {
+      "name": "Photography",
+      "keywords": [
+        "Landscape",
+        "Portrait",
+        "Nature",
+        "Nikon D750"
+      ]
+    },
+    {
+      "name": "Mountain Hiking",
+      "keywords": []
+    }
+  ],
+  "references": []
+}
