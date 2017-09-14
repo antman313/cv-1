@@ -1,17 +1,8 @@
 {
   "name": "CV",
   "version": "0.0.1",
-  "description": "my CV, based on jsonresume and latex",
+  "description": "my CV, based on jsonresume and luatex",
   "repository": "https://github.com/nkoehring/cv.git",
   "author": "koehr <n@koehr.in>",
   "license": "MIT",
-  "scripts": {
-    "test": "node ./node_modules/resume-cli/index.js test",
-    "build": "node ./node_modules/resume-cli/index.js export --format pdf --theme koehr dist/cv.pdf",
-    "publish": "node ./node_modules/resume-cli/index.js publish --theme koehr",
-    "dev": "node ./node_modules/resume-cli/index.js serve --port 1235"
-  },
-  "devDependencies": {
-    "resume-cli": "^0.4.19"
-  }
 }
