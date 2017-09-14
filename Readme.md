@@ -7,15 +7,11 @@ uses the roughly the same colours as the original. I also kept the `print`
 option which renders in black and white, and reverts the header to dark on
 light but hope noone really needs it.
 
-Uses TikZ for the header, XeTeX and fontspec to use Iwona and Nanum, biblatex
-for publications printing if needed and textpos for the aside and fontawesome
-for the social media icons in the sidebar.
+Uses TikZ for the header, XeTeX and fontspec to use Iwona and Nanum Brush, biblatex for publications printing if needed and textpos for the aside and fontawesome for the social media icons in the sidebar. I changed the main font from Helvetica Neue Light to Open Sans Light.
 
-I also included the font Iwona font archive from
-http://jmn.pl/en/kurier-i-iwona/ as Iwona-ttf-0_995.zip.
+I also included the font Iwona font archive from http://jmn.pl/en/kurier-i-iwona/ and Nanum Brush Script font from https://www.ffonts.net/Nanum-Brush-Script.font.
 
-The bibliography.bib file is just kept for reference but there is no
-publication listing in my CV.
+The original bibliography.bib file is remove because there is no  publication listing in my CV.
 
 It is very handy to install all needed packages with `tlmgr`, the CTAN package
 manager of the tex-live distribution:
@@ -25,9 +21,10 @@ manager of the tex-live distribution:
 tlmgr install iwona fontawesome lm-math
 
 # needed packages, a lot of them may already be installed
-tlmgr textpos biblatex logreq unicode-math ucharcat filehook
+tlmgr install textpos biblatex logreq unicode-math ucharcat filehook xstring
 ```
 
+Compile the PDF with `lualatex cv.tex`
 
 # License
 Copyright (C) 2015, Norman Köhring
