@@ -34,6 +34,31 @@
   },
   "work": [
     {
+      "company": "HERE Global B.V.",
+      "position": "Senior Developer",
+      "website": "https://www.here.com",
+      "startDate": "Nov 2017",
+      "endDate": "Mar 2018",
+      "summary": "Supporting the “Smart Office” IoT project",
+      "highlights": [
+        "Development of a Kiosk system, including evaluation and programming.",
+        "Fullstack development with Nodejs, Vuejs, GeoJSON, interactive SVGs.",
+        "Developed a Microsoft Outlook Add-In."
+      ]
+    },
+    {
+      "company": "Multimedia Kontor Hamburg",
+      "position": "Senior Frontend Developer",
+      "website": "https://www.hoou.de",
+      "startDate": "Oct 2017",
+      "endDate": "Nov 2017",
+      "summary": "Helping to build the Hamburg Open Online University",
+      "highlights": [
+        "supported the MMKH team with consulting and programming",
+        "Used Ruby on Rails in the backend and Emberjs with SemanticUI in the frontend."
+      ]
+    },
+    {
       "company": "FromAtoB",
       "position": "Senior Frontend Developer",
       "website": "https://fromatob.com/",
@@ -81,7 +106,7 @@
       ]
     },
     {
-      "company": "HERE",
+      "company": "HERE Global B.V.",
       "position": "Senior Frontend Engineer",
       "website": "https://here.com/",
       "startDate": "Nov 2013",
